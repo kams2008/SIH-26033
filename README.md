@@ -52,14 +52,14 @@ Innovation: FarmLink combines collective selling, transparent price distribution
 ## Technical Approach
 FarmLink will be developed as a responsive web application with separate dashboards for farmers, buyers and administrators.
 
-A. Technologies Used
+A. Technologies Used:
 Technology	                                Purpose
-HTML, CSS,                       JavaScript	Frontend development
-Python, Django	                     Backend development
-SQLite / MySQL	                    Database management
-Python libraries	                  Price and demand analysis
-Maps API / OpenStreetMap	        Location and route suggestions
-QR Code Library	                       Product traceability
+HTML, CSS,              -         JavaScript	Frontend development
+Python, Django	        -            Backend development
+SQLite / MySQL	        -          Database management
+Python libraries	      -            Price and demand analysis
+Maps API / OpenStreetMap	-        Location and route suggestions
+QR Code Library	           -            Product traceability
 
 B. Implementation Methodology
 
@@ -91,15 +91,15 @@ Operational Feasibility
 - FPOs and cooperatives can assist with farmer registration.
 - Can initially be implemented in selected villages or districts.
   
-Potential Challenges and Solutions
+Potential Challenges and Solutions:
 
 Challenge	                                  Solution
-Limited digital literacy	      Simple interface and regional languages
-Inaccurate price data	           Verified sources and timestamps
-Quality differences	           Crop grading and buyer verification
-Transport coordination	         Local transport partnerships
-Low user participation	        FPO and cooperative partnerships
-Data security	               Secure authentication and access control
+Limited digital literacy	 -     Simple interface and regional languages
+Inaccurate price data	     -     Verified sources and timestamps
+Quality differences	       -   Crop grading and buyer verification
+Transport coordination	   -     Local transport partnerships
+Low user participation	   -    FPO and cooperative partnerships
+Data security	             -   Secure authentication and access control
 
 Scalability: FarmLink can begin with a small pilot involving selected farmers and crops, then expand to additional districts and markets. It will complement existing platforms such as e-NAM through its focus on collective selling, price transparency and shared logistics.
 
