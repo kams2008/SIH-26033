@@ -53,13 +53,13 @@ Innovation: FarmLink combines collective selling, transparent price distribution
 FarmLink will be developed as a responsive web application with separate dashboards for farmers, buyers and administrators.
 
 A. Technologies Used
-Technology	                           Purpose
-HTML, CSS,                  JavaScript	Frontend development
-Python, Django	             Backend development
-SQLite / MySQL	             Database management
-Python libraries	           Price and demand analysis
-Maps API / OpenStreetMap	   Location and route suggestions
-QR Code Library	             Product traceability
+Technology	                                Purpose
+HTML, CSS,                       JavaScript	Frontend development
+Python, Django	                     Backend development
+SQLite / MySQL	                    Database management
+Python libraries	                  Price and demand analysis
+Maps API / OpenStreetMap	        Location and route suggestions
+QR Code Library	                       Product traceability
 
 B. Implementation Methodology
 
